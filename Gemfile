@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.5'
 
 ### CUSTOM ADDED GEMS START ###
 gem 'devise'
+gem 'heroku'
 
 ### CUSTOM ADDED GEMS END ###
 group :development, :test do
